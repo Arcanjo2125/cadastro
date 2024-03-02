@@ -1,0 +1,7 @@
+.imagem{
+    background-image: url(crip.jpg);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+}
+
